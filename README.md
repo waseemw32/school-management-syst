@@ -1,32 +1,47 @@
+
 # School Management System
 
-An Android school management application
-built with Flutter, Dart, and Firebase.
+An Android school management application built with Flutter, Dart, and Firebase.
 
 ## Overview
 
-School Management System is an Android
-application designed to support school
-administration and academic activities
-through a mobile interface.
+School Management System is a mobile application designed to simplify school administration and academic operations through a centralized Android platform.
+
+The application provides tools for managing students, teachers, classes, attendance, examinations, grades, financial records, and user access.
 
 ## Features
 
+### Academic Management
 - Student management
 - Teacher management
-- Classes and sections management
+- Class and section management
 - Subject management
 - Attendance tracking
-- Exams and grade management
-- Fees and financial management
-- User accounts and permissions
+- Examination and grade management
+
+### Financial Management
+- School fees management
+- Financial records
+- Administrative accounting
+
+### Administration
+- User accounts and authentication
+- User roles and access permissions
 - Reports and printing
 
-## Tech Stack
+## Technology Stack
 
-- Flutter
-- Dart
-- Firebase
+- **Flutter:** Cross-platform application framework
+- **Dart:** Programming language
+- **Firebase:** Backend and cloud services
+
+## Firebase Services
+
+- **Firebase Authentication:** User authentication and account management.
+- **Cloud Firestore:** Cloud-hosted NoSQL database.
+- **Firebase Realtime Database:** Real-time data synchronization.
+- **Firebase Storage:** File and media storage.
+- **Firebase Cloud Messaging:** Push notifications.
 
 ## Platform
 
@@ -34,53 +49,29 @@ through a mobile interface.
 
 ## Project Status
 
-The application has been developed and is
-currently undergoing debugging, review,
-and testing.
+**Under review and testing**
+
+The application has been developed and is currently undergoing debugging, code review, and preparation for public release.
 
 ## Screenshots
 
-Application screenshots will be added here.
+Screenshots of the application interface will be added after the final review and preparation of demonstration data.
 
 ## Installation
 
-Installation instructions, Firebase
-configuration requirements, and build
-steps will be documented after reviewing
-the project source code.
+Installation instructions, dependencies, and Firebase configuration steps will be documented after reviewing the source code and project configuration.
 
-Do not upload private Firebase credentials
-or real school data to this repository.
+## Security
 
-## Technology Stack
-
-- **Flutter:** Android application development
-- **Dart:** Application programming language
-- **Firebase:** Backend services and cloud infrastructure
-
-## Firebase Services
-
-- **Firebase Authentication:** User authentication
-  and account management.
-- **Cloud Firestore:** Cloud-hosted NoSQL
-  document database.
-- **Firebase Realtime Database:** Real-time
-  data synchronization.
-- **Firebase Storage:** File and media storage.
-- **Firebase Cloud Messaging (FCM):**
-  Push notification delivery.
-
-## Security and Configuration
-
-Firebase security rules, authentication
-permissions, and project configuration must
-be reviewed before public release.
-
-Never commit service account private keys,
-private credentials, or real student data.
+- Never publish real student or teacher information.
+- Never commit private credentials or service account keys.
+- Review Firebase Authentication and database security rules before deployment.
+- Use demonstration data when presenting the application publicly.
 
 ## Author
 
-Waseem Ali Al-Idrisi
+**Waseem Ali Al-Idrisi**
 
-GitHub: https://github.com/waseemw32
+GitHub: [@waseemw32](https://github.com/waseemw32)
+
+Repository: [School Management System](https://github.com/waseemw32/school-management-syst)
