@@ -1,19 +1,20 @@
 # School Management System
 
-A school management application
-developed using Flutter and Dart.
+An Android school management application
+built with Flutter, Dart, and Firebase.
 
 ## Overview
 
-This project is designed to simplify
-school administration and academic
-management through a single application.
+School Management System is an Android
+application designed to support school
+administration and academic activities
+through a mobile interface.
 
 ## Features
 
 - Student management
 - Teacher management
-- Classes and sections
+- Classes and sections management
 - Subject management
 - Attendance tracking
 - Exams and grade management
@@ -21,29 +22,35 @@ management through a single application.
 - User accounts and permissions
 - Reports and printing
 
-## Technologies
+## Tech Stack
 
 - Flutter
 - Dart
+- Firebase
+
+## Platform
+
+- Android
 
 ## Project Status
 
-The application has been developed and
-is currently undergoing review,
-debugging, and testing.
+The application has been developed and is
+currently undergoing debugging, review,
+and testing.
 
 ## Screenshots
 
-Screenshots will be added after the
-interface and sample data have been
-prepared for public presentation.
+Application screenshots will be added here.
 
 ## Installation
 
-Setup instructions and requirements
-will be documented after the project
-structure and dependencies have
-been reviewed.
+Installation instructions, Firebase
+configuration requirements, and build
+steps will be documented after reviewing
+the project source code.
+
+Do not upload private Firebase credentials
+or real school data to this repository.
 
 ## Author
 
