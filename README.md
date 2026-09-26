@@ -1,2 +1,2 @@
 # school-management-syst
-School management web application built with Core PHP and MySQL, featuring student, teacher, attendance, academic, and financial management.
+A school management application built with Flutter, designed to manage students, teachers, classes, attendance, exams, grades, fees, and reports.
