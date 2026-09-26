@@ -52,6 +52,37 @@ the project source code.
 Do not upload private Firebase credentials
 or real school data to this repository.
 
+## Technology Stack
+
+- **Flutter:** Android application development
+- **Dart:** Application programming language
+- **Firebase:** Backend services and cloud infrastructure
+
+## Firebase Services
+
+- **Firebase Authentication:** User authentication
+  and account management.
+- **Cloud Firestore:** Cloud-hosted NoSQL
+  document database.
+- **Firebase Realtime Database:** Real-time
+  data synchronization.
+- **Firebase Storage:** File and media storage.
+- **Firebase Cloud Messaging (FCM):**
+  Push notification delivery.
+
+## Platform
+
+- Android
+
+## Security and Configuration
+
+Firebase security rules, authentication
+permissions, and project configuration must
+be reviewed before public release.
+
+Never commit service account private keys,
+private credentials, or real student data.
+
 ## Author
 
 Waseem Ali Al-Idrisi
