@@ -70,10 +70,6 @@ or real school data to this repository.
 - **Firebase Cloud Messaging (FCM):**
   Push notification delivery.
 
-## Platform
-
-- Android
-
 ## Security and Configuration
 
 Firebase security rules, authentication
